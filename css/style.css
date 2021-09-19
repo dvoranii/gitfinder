@@ -1,0 +1,125 @@
+body{
+  background-color: white;
+}
+
+.avatar {
+  width: 100%;
+  border: 1px solid darkgray;
+}
+
+.viewProfile{
+  padding-top: 4px;
+  border: none;
+  background-color: rgb(202, 4, 4);
+  color: black;
+  margin-left: 70px;
+  font-weight: bold;
+}
+
+.viewProfile:hover{
+  color: white;
+}
+
+.profile {
+  margin-top: 10px;
+}
+
+#repos div{
+  padding:3px;
+  margin-left: 10px;
+}
+
+h3, .h3{
+  margin-left: 10px;
+}
+
+.forks{
+  border: 1px solid;
+  background-color: rgb(185, 24, 24);
+  color: white;
+  padding: 3px;
+}
+
+.watchers{
+  border: 1px solid;
+  background-color: rgb(37, 37, 192);
+  color: white;
+}
+
+.count{
+  border: 1px solid;
+  background-color: rgb(31, 112, 31);
+  color: white;
+
+}
+
+.nav{
+  background-color: darkgray;
+}
+
+.navbar-brand{
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  color: black;
+  font-size: 20pt;
+}
+
+.navbar-brand:hover{
+  color:brown;
+}
+
+.fab{
+  padding-right: 5px;
+}
+
+.searchContainer h1{
+  padding-top: 20px;
+  font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif ;
+}
+
+.repo-page{
+  color: black;
+  border: none;
+  background-color: rgb(131, 131, 131);
+  font-weight: bold;
+}
+
+.repo-page:hover{
+  color: white;
+}
+
+.repos{
+  border: 1px solid;
+  background-color: rgb(66, 66, 66);
+  color: white;
+  padding: 7px;
+}
+
+.gists{
+  border: 1px solid;
+  background-color: rgb(185, 24, 24);
+  color: white;
+  padding: 7px;
+}
+
+.followers{
+  border: 1px solid;
+  background-color: rgb(37, 37, 192);
+  color: white;
+  padding: 7px;
+}
+
+.following{
+  border: 1px solid;
+  background-color: rgb(31, 112, 31);
+  color: white;
+  padding: 7px;
+}
+
+.page-header{
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.list-group-item{
+  padding: 20px;
+}
+
